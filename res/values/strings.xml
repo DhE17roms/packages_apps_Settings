@@ -4436,7 +4436,6 @@
     <string name="ok">OK</string>
     <string name="alt_resolver">Use Alt Default App Grid</string>
     <string name="alt_resolver_summary">Use Alternate (GB style) Default App Picker</string>
-    
 
     <!-- Color Picker -->
     <string name="dialog_color_picker">Color Picker</string>
@@ -4448,4 +4447,50 @@
     <string name="set">Set</string>
     <string name="ics_color">Holo</string>
     <string name="app_name">Settings</string>
+    
+    <!-- Statusbar | Battery -->
+    <string name="battery_settings_title">Battery Settings</string>
+    <string name="battery_icon">Battery icon style</string>
+    <string name="battery_not_title">Battery icon in notifications</string>
+    <string name="battery_not_summary">Battery icon will show up where the clear all button shows up</string>
+    <string name="battery_bar">Battery bar location</string>
+    <string name="battery_bar_color">Battery bar color</string>
+    <string name="battery_bar_cat">Battery bar options</string>
+    <string name="battery_bar_style_title">Battery bar style</string>
+    <string name="battery_bar_thickness_title">Battery bar thickness</string>
+    <string name="battery_bar_animate_title">Charging animation</string>
+    <string name="battery_bar_animate_summary">The charging animation may result in a poor user experience. Enable at your own discretion.</string>
+    
+    <!-- toggle style -->
+    <string name="icon_only">Icon only</string>
+    <string name="text_only">Text only</string>
+
+    <!-- Brightness slider -->
+    <string name="on_top">On top</string>
+    <string name="on_the_bottom">On the bottom</string>
+
+    <!-- Battery styles -->
+    <string name="icon_with_text">Icon with text</string>
+    <string name="icon_with_centered_text">Icon with centered text</string>
+    <string name="circlemod">Circle MOD</string>
+    <string name="smooth_circlemod">Smooth Circle MOD</string>
+    <string name="honeycomb_mod">Honeycomb MOD</string>
+    
+    <string name="statusbar">Statusbar</string>
+    <string name="top_of_navbar">Top of navbar</string>
+    <string name="bottom_of_navbar">Bottom of navbar</string>
+    <string name="regular">Regular</string>
+    <string name="center_mirrored">Center-mirrored</string>
+    <string name="size_0_dp">0 dp (off)</string>
+    <string name="size_1_dp">1 dp</string>
+    <string name="size_2_dp">2 dp</string>
+    <string name="size_3_dp">3 dp</string>
+    <string name="size_4_dp">4 dp</string>
+    
+    <!-- Shortcut picker -->
+    <string name="use_custom_app_title">Use custom application</string>
+    <string name="use_custom_app_summary">Use custom application instead of the recent applications dialog</string>
+    <string name="select_custom_app_title">Select custom application</string>
+    <string name="group_applications">Applications</string>
+
 </resources>
