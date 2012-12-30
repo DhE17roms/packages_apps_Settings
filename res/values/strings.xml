@@ -4397,10 +4397,15 @@
     <string name="cell_broadcast_settings_summary">Select the types of emergency alerts to display.</string>
     
     <!-- Warped Settings -->
+    <string name="rom_settings_header">Rom Settings</string>
     <string name="warped_settings">Warped Settings</string>
     <string name="status_bar_settings_header">Status Bar Settings</string>
     <string name="lock_screen_settings_header">Lock Screen Settings</string>
-    
+
+    <!-- Mod Version -->
+    <string name="mod_version">Rom Version</string>
+    <string name="mod_version_default">Unknown</string>
+
     <!-- Clock Settings -->
     <string name="clock_settings_title">Clock Settings</string>
     <string name="user_interface_title">User Interface</string>
@@ -4542,7 +4547,6 @@
     <string name="profile_reset_title">Reset</string>
     
     <!-- Themes settings  -->
-    <string name="themes_settings_title">Themes</string>
+    <string name="themes_settings_title">Theme Chooser</string>
     
-
 </resources>

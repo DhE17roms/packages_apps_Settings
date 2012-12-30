@@ -57,10 +57,10 @@
         android:breadCrumbTitle="@string/wireless_networks_settings_title"
         android:fragment="com.android.settings.WirelessSettings"
         android:icon="@drawable/empty_icon" />
-
-    <!-- DEVICE -->
-    <header android:id="@+id/device_section"
-        android:title="@string/header_category_device" />
+    
+    <!-- Warped Settings -->
+    <header android:id="@+id/rom_section"
+        android:title="@string/rom_settings_header" />
         
     <header
         android:id="@+id/sound_settings"
@@ -78,6 +78,10 @@
             android:targetPackage="com.tmobile.themechooser"
             android:targetClass="com.tmobile.themechooser.ThemeChooser" />
     </header>
+
+    <!-- DEVICE -->
+    <header android:id="@+id/device_section"
+        android:title="@string/header_category_device" />
 
     <!-- Sound -->
     <header
