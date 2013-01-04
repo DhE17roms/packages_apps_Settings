@@ -935,5 +935,63 @@
         <item>@*android:drawable/ic_lockscreen_google_normal</item>
         <item>@*android:drawable/ic_lockscreen_twitter_normal</item>
     </string-array>
+     
+    <!-- Navbar Icon styles -->
+    <string-array name="navbar_icon_entries" translatable="false">
+        <item>@string/stock_style</item>
+        <item>@string/honeycomb_style</item>
+        <item>@string/zenyth_style</item>
+        <item>@string/airbrush_style</item>
+        <item>@string/balloon_style</item>
+        <item>@string/metro_style</item>
+        <item>@string/playstation_style</item>
+        <item>@string/text_style</item>
+    </string-array>
+    
+    <string-array name="navbar_icon_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    
+    <string-array name="glow_times_entries">
+        <item>@string/glow_times_off</item>
+        <item>@string/glow_times_superquick</item>
+        <item>@string/glow_times_quick</item>
+        <item>@string/glow_times_normal</item>
+    </string-array>
+
+    <string-array name="glow_times_values" translatable="false">
+      <item>0|0</item>
+      <item>100|10</item>
+      <item>250|25</item>
+      <item>500|50</item>
+    </string-array>
+    
+    <!--- Nav buttons height -->
+    <string-array name="nav_buttons_height_entries" translatable="false">
+        <item>@string/navigation_bar_height_48</item>
+        <item>@string/navigation_bar_height_44</item>
+        <item>@string/navigation_bar_height_40</item>
+        <item>@string/navigation_bar_height_36</item>
+        <item>@string/navigation_bar_height_32</item>
+        <item>@string/navigation_bar_height_28</item>
+        <item>@string/navigation_bar_height_24</item>
+    </string-array>
+
+    <string-array name="nav_buttons_height_values" translatable="false">
+        <item>48</item>
+        <item>44</item>
+        <item>40</item>
+        <item>36</item>
+        <item>32</item>
+        <item>28</item>
+        <item>24</item>
+    </string-array>
 
 </resources>

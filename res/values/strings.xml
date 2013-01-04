@@ -4401,6 +4401,7 @@
     <string name="warped_settings">Warped Settings</string>
     <string name="status_bar_settings_header">Status Bar Settings</string>
     <string name="lock_screen_settings_header">Lock Screen Settings</string>
+    <string name="navbar_settings_header">Navigation Bar Settings</string>
 
     <!-- Mod Version -->
     <string name="mod_version">Rom Version</string>
@@ -4549,4 +4550,37 @@
     <!-- Themes settings  -->
     <string name="themes_settings_title">Theme Chooser</string>
     
+    <!-- NavBar Settings -->
+    <string name="icon_style_settings">Navigation Bar Icon Styles</string>
+    <string name="stock_style">Stock Icons</string>
+    <string name="honeycomb_style">Honeycomb Icons</string>
+    <string name="zenyth_style">Zenyth Icons</string>
+    <string name="airbrush_style">Airbrush Icons</string>
+    <string name="balloon_style">Balloon Icons</string>
+    <string name="metro_style">Metro Icons</string>
+    <string name="playstation_style">Playstation Icons</string>
+    <string name="text_style">Text Icons</string>
+    <string name="navbar_icon_list">Navigation Bar Icon Sets</string>
+    <string name="navbar_color_title">Navigation Bar Icon Color</string>
+    <string name="navigation_bar_tint_title">Navigation bar color</string>
+    <string name="navigation_bar_glow_tint_title">Navigation bar glow color</string>
+    <string name="navigation_bar_glow_tint_summary">When you press on a button, there is a glow. Use this to change the color of the glow.</string>
+    <string name="glow_times_title">Button glow animation</string>
+    <string name="glow_times_off">Off</string>
+    <string name="glow_times_superquick">Super quick</string>
+    <string name="glow_times_quick">Quick</string>
+    <string name="glow_times_normal">Normal</string>
+    <string name="button_transparency_title">Nav button transparency</string>
+    <string name="menu_nav_bar_reset">Reset</string>
+    
+    <string name="navigation_bar_edit_title">Button customization</string>
+    <string name="navigation_bar_edit_summary">Edit button layout</string>
+    <string name="navigation_bar_height">Button height</string>
+    <string name="navigation_bar_height_48">48dp (default)</string>
+    <string name="navigation_bar_height_44">44dp</string>
+    <string name="navigation_bar_height_40">40dp</string>
+    <string name="navigation_bar_height_36">36dp</string>
+    <string name="navigation_bar_height_32">32dp</string>
+    <string name="navigation_bar_height_28">28dp</string>
+    <string name="navigation_bar_height_24">24dp</string>
 </resources>
