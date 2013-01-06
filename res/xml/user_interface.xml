@@ -17,5 +17,5 @@
             android:title="@string/alt_resolver"
             android:summary="@string/alt_resolver_summary"
             android:defaultValue="false" />
-
+            
 </PreferenceScreen>

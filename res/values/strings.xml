@@ -4583,4 +4583,6 @@
     <string name="navigation_bar_height_32">32dp</string>
     <string name="navigation_bar_height_28">28dp</string>
     <string name="navigation_bar_height_24">24dp</string>
+    
+    <string name="advanced_settings_title">Device options</string>
 </resources>
