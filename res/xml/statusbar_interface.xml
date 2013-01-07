@@ -22,9 +22,13 @@
             android:fragment="com.android.settings.warped.StatusBarClock"
             android:title="@string/clock_settings_title" />
             
-        <PreferenceScreen
+    <PreferenceScreen
             android:key="statusbar_battery"
             android:fragment="com.android.settings.warped.StatusBarBattery"
             android:title="@string/battery_settings_title" />
+    <PreferenceScreen
+            android:key="statusbar_toggles"
+            android:fragment="com.android.settings.warped.StatusBarToggles"
+            android:title="@string/title_statusbar_toggles" />
 
 </PreferenceScreen>
